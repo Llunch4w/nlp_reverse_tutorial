@@ -1,0 +1,1 @@
+Some Knowledge and Some **Practice** in NLP class in HIS-SZ class.
